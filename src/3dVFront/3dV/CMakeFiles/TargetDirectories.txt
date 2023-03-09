@@ -1,0 +1,4 @@
+/Users/nellyole/Desktop/C8_3DViewer_v1.0-1/src/3dVFront/3dV/CMakeFiles/3dV.dir
+/Users/nellyole/Desktop/C8_3DViewer_v1.0-1/src/3dVFront/3dV/CMakeFiles/edit_cache.dir
+/Users/nellyole/Desktop/C8_3DViewer_v1.0-1/src/3dVFront/3dV/CMakeFiles/rebuild_cache.dir
+/Users/nellyole/Desktop/C8_3DViewer_v1.0-1/src/3dVFront/3dV/CMakeFiles/3dV_autogen.dir

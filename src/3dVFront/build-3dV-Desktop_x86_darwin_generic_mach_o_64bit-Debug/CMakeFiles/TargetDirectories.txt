@@ -1,0 +1,4 @@
+/Users/kyneshal/3D-Viewer/src/3dVFront/build-3dV-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/3dV.dir
+/Users/kyneshal/3D-Viewer/src/3dVFront/build-3dV-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/kyneshal/3D-Viewer/src/3dVFront/build-3dV-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/kyneshal/3D-Viewer/src/3dVFront/build-3dV-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/3dV_autogen.dir
