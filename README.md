@@ -42,6 +42,8 @@ Below you can see the work of the program and testing its capabilities:
 
 ![](/images/plane_1.gif)
 
+![](/images/hammer.gif)
+
 ## Additional information
 
 ### .Obj file format for representing the definition of 3D objects
